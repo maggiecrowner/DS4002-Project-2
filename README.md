@@ -11,9 +11,9 @@ Time Series Analysis
 ## Map of documentation
 **DATA** -- raw_temperature_data.csv, Data Appendix.pdf
 
-**OUTPUT** -- ACFandPACF.png, EvaluationMetrics_CandidateModels.png
+**OUTPUT** -- ACFandPACF.png, EvaluationMetrics_CandidateModels.png, DiagnosticPlots_FinalModel.png
 
-**SCRIPTS** -- Preprocessing.ipynb, Analysis.ipynb
+**SCRIPTS** -- Preprocessing_EDA.ipynb, Analysis.ipynb
 
 README.md
 
