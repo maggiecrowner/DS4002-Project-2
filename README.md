@@ -9,7 +9,7 @@ Time Series Analysis
 - Platform: Mac
 
 ## Map of documentation
-**DATA** -- raw_temperature_data.csv, Data Appendix.pdf
+**DATA** -- raw_temperature_data.csv, Data Appendix.pdf, preprocessed_data.csv
 
 **OUTPUT** -- ACFandPACF.png, EvaluationMetrics_CandidateModels.png, DiagnosticPlots_FinalModel.png, Forcasting2023.png
 
